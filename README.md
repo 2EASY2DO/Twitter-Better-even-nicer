@@ -2,7 +2,7 @@
 
 Small application made in 1 day for my unit 2 project
 
-#Technologies
+# Technologies
 
 React
 
